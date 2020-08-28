@@ -46,3 +46,4 @@ node_modules/
 
 yarn.lock
 pubspec.lock
+coverage
